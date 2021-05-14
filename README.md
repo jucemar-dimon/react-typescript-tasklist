@@ -1,4 +1,4 @@
-# :rocket: Rocketseat - Iginte - Trílha ReactJs
+# :rocket: Rocketseat - Ignite - ReactJS
 ## Desafio 01
 Conceitos do React:
  - [x] Imutabilidade;
